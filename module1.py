@@ -3,4 +3,9 @@ print(f'Начало выполнения: {__name__}\n')
 
 M1 = 100
 
+def change_M1():
+    global M1
+    M1 = 150
+
+
 print(f'Завершение выполнения: {__name__}\n')
