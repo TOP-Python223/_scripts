@@ -1,0 +1,5 @@
+ЭТО ТЕКСТОВЫЙ ФАЙЛ ДЛЯ ДЕМОНСТРАЦИИ ФАЙЛОВОГО ВВОДА/ВЫВОДА.
+
+THIS IS TEXT FILE FOR FILE INPUT/OUTPUT.
+This is text file for file input/output.
+Это текстовый файл для демонстрации файлового ввода/вывода.
