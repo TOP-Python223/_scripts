@@ -6,11 +6,13 @@ class Organization:
 
     def __init__(self, name: str, inn: str):
         self.name = name
-        self._inn = inn
+        if self._check_inn(inn):
+            self._inn = inn
         self.__budget: int = 0
 
-    def check_inn(self) -> bool:
-        return self._inn.isdecimal()
+    @staticmethod
+    def _check_inn(inn: str) -> bool:
+        return inn.isdecimal()
 
     def __str__(self):
         return f'<{self.name}>'
