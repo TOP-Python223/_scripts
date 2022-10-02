@@ -17,6 +17,9 @@ class CourseGroup:
     def change_teacher(self, teacher_name: str):
         self.teacher = teacher_name
 
+    def __bool__(self):
+        return bool(self.teacher) and bool(self.students)
+
     def __contains__(self, person_name: str):
         return person_name in self.students or person_name == self.teacher
 
@@ -94,3 +97,5 @@ print(p223, end='\n\n')
 del p223[0]
 print("del p223[0]")
 print(p223, end='\n\n')
+
+print(f'{bool(p223) = }\n')
