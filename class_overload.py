@@ -6,6 +6,7 @@ class NamedNumber:
         self.name = name
         self.number = number
 
+    # self + other
     def __add__(self, other):
         if isinstance(other, Real):
             return NamedNumber('', self.number + other)
@@ -14,6 +15,7 @@ class NamedNumber:
         else:
             raise TypeError
 
+    # self - other
     def __sub__(self, other):
         if isinstance(other, Real):
             return NamedNumber('', self.number - other)
@@ -22,6 +24,7 @@ class NamedNumber:
         else:
             raise TypeError
 
+    # other + self
     def __radd__(self, other):
         if isinstance(other, Real):
             return NamedNumber('', self.number + other)
@@ -30,6 +33,7 @@ class NamedNumber:
         else:
             raise TypeError
 
+    # other - self
     def __rsub__(self, other):
         if isinstance(other, Real):
             return NamedNumber('', self.number - other)
