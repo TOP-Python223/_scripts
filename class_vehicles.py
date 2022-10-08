@@ -41,6 +41,10 @@ print(f'{t1.definition = }')
 h1 = Helicopter(0)
 print(f'{h1.definition = }\n')
 
+for v in (b1, c1, t1, h1):
+    print(f'{v.__class__.__name__} has {v.wheels} wheels')
+print()
+
 v1.move()
 b1.move()
 c1.move()
