@@ -1,3 +1,5 @@
+from pprint import pprint
+
 
 class Proteus:
     def move(self):
@@ -37,11 +39,15 @@ class Human(Mammals):
 
 
 artem = Human()
+pprint(artem.__class__.__mro__)
+print()
 artem.move()
 artem.eat()
 artem.hide()
 artem.care()
 artem.speak()
+
+print()
 
 parrot = Bird()
 parrot.eat()
