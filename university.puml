@@ -1,0 +1,119 @@
+@startuml
+
+hide enum empty members
+
+enum Gender {
+    MALE
+    FEMALE
+}
+
+enum Grade {
+    BACHELOR
+    SPECIALIST
+    MASTER
+    CANDIDATE
+    DOCTOR
+}
+
+enum EducationForm {
+    INTRAMURAL
+    EXTRAMURAL
+    REMOTE
+}
+
+
+class Student {
+    +form: EducationForm
+    -grant: Decimal
+    +year: int = 1
+    +dormitory: bool = False
+    __init__()
+    __str__()
+    +promote()
+}
+Student <|-- Person
+Student::form *-- "слабая композиция" EducationForm
+
+
+class Teacher {
+    +courses: list[str]
+    +professorship: bool = False
+    __init__()
+    __str__()
+    +add_course(course_name: str)
+    +rem_course(course_name: str)
+}
+Teacher <|-- ProfessionalPersonnel
+
+
+class Researcher {
+    +grade: Grade = MASTER
+    __init__()
+    __str__()
+}
+Researcher <|-- ProfessionalPersonnel
+Researcher::grade *-- Grade
+
+
+abstract class ProfessionalPersonnel {
+    +previous_experience: int = 0
+    +grade: Grade = BACHELOR
+    .. properties ..
+    +total_experience: int
+    __
+    __init__()
+    __str__()
+}
+ProfessionalPersonnel <|-- Employee
+ProfessionalPersonnel::grade *-- "слабая композиция" Grade
+
+
+class Administrator {
+    +subordinates: list[Employee]
+    __str__()
+    +add_subordinate(person: Employee)
+    +rem_subordinate(person: Employee)
+}
+Administrator <|-down- Employee
+Administrator::subordinates o-- Employee
+
+
+class SecurityPersonnel
+SecurityPersonnel : __str__()
+SecurityPersonnel <|-- Employee
+
+
+class GeneralPersonnel
+GeneralPersonnel : __str__()
+GeneralPersonnel <|-- Employee
+
+
+abstract class Employee {
+    +employment_date: date
+    -salary: Decimal
+    +position: str
+    +head: Administrator
+    __init__()
+    __str__()
+}
+Employee <|-- Person
+Employee::head o-- Administrator
+
+
+abstract class Person {
+    +surname: str
+    +name: str
+    +patronymic: str
+    +gender: Gender
+    +birthdate: date
+    __init__()
+    __str__()
+}
+Person::gender *-- "слабая композиция" Gender
+'note bottom of Person
+'    Все атрибуты задаются
+'    с помощью параметров
+'    конструктора
+'end note
+
+@enduml
