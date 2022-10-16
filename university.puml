@@ -1,12 +1,12 @@
 @startuml
 
 hide enum empty members
+hide abstract empty members
 
 enum Gender {
     MALE
     FEMALE
 }
-
 enum Grade {
     BACHELOR
     SPECIALIST
@@ -14,11 +14,20 @@ enum Grade {
     CANDIDATE
     DOCTOR
 }
-
 enum EducationForm {
     INTRAMURAL
     EXTRAMURAL
     REMOTE
+}
+enum ClassForm {
+    LECTURE
+    SEMINAR
+    PRACTICE
+    LABWORK
+    HOMEWORK
+    TEST
+    COLLOQUIUM
+    EXAM
 }
 
 
@@ -76,7 +85,6 @@ Department::groups o-- Group
 
 
 abstract class list
-hide list empty members
 list <|-- Group
 
 
@@ -90,6 +98,7 @@ class Group {
     __str__()
     +change_chief(student)
     +change_curator(curator)
+    +apply_schedule(current_schedule)
 }
 Group *-- "слабая композиция" Student
 Group::form *-- "слабая композиция" EducationForm
@@ -97,26 +106,79 @@ Group::chief o-- Student
 Group::curator o-- Teacher
 
 
+abstract class dict
+dict <|-- Schedule
+
+
+note "{datetime: Activity}" as schedule_description
+class Schedule {
+    +half_semester: int
+    __str__()
+    +change_class_date(from: datetime, to: datetime)
+}
+Schedule *-- "слабая композиция" Activity
+Schedule ..up.. schedule_description
+
+
+class Course {
+    +name: str
+    +hours: dict[ClassForm, int]
+    __init__()
+    __str__()
+}
+
+
+abstract class Activity {
+    +course: Course
+    +form: ClassForm
+    +duration: timedelta
+    +teacher: Teacher
+    +visited: bool = False
+    __init__()
+    __str__()
+}
+Activity <|-- ClassActivity
+Activity <|-- ControlActivity
+Activity::course o-- Course
+Activity::form *-- "слабая композиция" ClassForm
+Activity::teacher o-- Teacher
+
+
+class ClassActivity
+
+
+class ControlActivity {
+    -answer: str
+    -grade: int
+    __str__()
+}
+
+
 class Student {
     +group: Group
     -grant: Decimal
     +year: int = 1
     +dormitory: bool = False
+    +current_schedule: Schedule
     __init__()
     __str__()
     +promote()
+    +submit_answer()
 }
 Student::group o-- Group
+Student::current_schedule *-- "слабая композиция" Schedule
 
 
 class Teacher {
-    +courses: list[str]
+    +courses: list[Course]
     +professorship: bool = False
     __init__()
     __str__()
     +add_course(course_name: str)
     +rem_course(course_name: str)
+    +grade_answer()
 }
+Teacher::courses o-- Course
 
 
 class Researcher {
