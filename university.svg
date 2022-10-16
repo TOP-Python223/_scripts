@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1350px" preserveAspectRatio="none" style="width:1631px;height:1350px;background:#FFFFFF;" version="1.1" viewBox="0 0 1631 1350" width="1631px" zoomAndPan="magnify"><defs/><g><!--MD5=[a4ea2dcb44ebd57046df9af95d8b8c12]
+class Gender--><g id="elem_Gender"><rect codeLine="4" fill="#F1F1F1" height="71.2813" id="Gender" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="80" x="1534" y="342.5"/><ellipse cx="1549" cy="358.5" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1547.8594,359.2969 L1547.8594,361.7969 L1552.1875,361.7969 L1552.1875,360.875 Q1552.1875,360.2656 1552.4219,360 Q1552.6719,359.7344 1553.0469,359.7344 Q1553.4219,359.7344 1553.6563,360 Q1553.8906,360.2656 1553.8906,360.875 L1553.8906,363.5 L1545.8906,363.5 Q1545.2656,363.5 1545,363.2656 Q1544.75,363.0313 1544.75,362.6406 Q1544.75,362.2656 1545.0156,362.0313 Q1545.2813,361.7969 1545.8906,361.7969 L1546.1563,361.7969 L1546.1563,355.1406 L1545.8906,355.1406 Q1545.2656,355.1406 1545,354.9063 Q1544.75,354.6719 1544.75,354.2813 Q1544.75,353.9063 1545,353.6719 Q1545.2656,353.4375 1545.8906,353.4375 L1553.5156,353.4375 L1553.5156,356.0313 Q1553.5156,356.6406 1553.2813,356.9063 Q1553.0625,357.1563 1552.6719,357.1563 Q1552.2969,357.1563 1552.0625,356.9063 Q1551.8281,356.6406 1551.8281,356.0313 L1551.8281,355.1406 L1547.8594,355.1406 L1547.8594,357.5938 L1549.3438,357.5938 Q1549.3438,356.9375 1549.4688,356.75 Q1549.7344,356.3438 1550.2031,356.3438 Q1550.5781,356.3438 1550.8125,356.6094 Q1551.0469,356.8594 1551.0469,357.4688 L1551.0469,359.4375 Q1551.0469,359.9844 1550.9219,360.1719 Q1550.6563,360.5625 1550.2031,360.5625 Q1549.7344,360.5625 1549.4688,360.1563 Q1549.3438,359.9688 1549.3438,359.2969 L1547.8594,359.2969 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="1563" y="363.3535">Gender</text><line style="stroke:#181818;stroke-width:0.5;" x1="1535" x2="1613" y1="374.5" y2="374.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="1540" y="391.1738">MALE</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="1540" y="406.8145">FEMALE</text></g><!--MD5=[64e7a81d370390ac66d73872e4f36773]
+class Grade--><g id="elem_Grade"><rect codeLine="9" fill="#F1F1F1" height="118.2031" id="Grade" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="90" x="124" y="986"/><ellipse cx="147.1" cy="1002" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M145.9594,1002.7969 L145.9594,1005.2969 L150.2875,1005.2969 L150.2875,1004.375 Q150.2875,1003.7656 150.5219,1003.5 Q150.7719,1003.2344 151.1469,1003.2344 Q151.5219,1003.2344 151.7563,1003.5 Q151.9906,1003.7656 151.9906,1004.375 L151.9906,1007 L143.9906,1007 Q143.3656,1007 143.1,1006.7656 Q142.85,1006.5313 142.85,1006.1406 Q142.85,1005.7656 143.1156,1005.5313 Q143.3813,1005.2969 143.9906,1005.2969 L144.2563,1005.2969 L144.2563,998.6406 L143.9906,998.6406 Q143.3656,998.6406 143.1,998.4063 Q142.85,998.1719 142.85,997.7813 Q142.85,997.4063 143.1,997.1719 Q143.3656,996.9375 143.9906,996.9375 L151.6156,996.9375 L151.6156,999.5313 Q151.6156,1000.1406 151.3813,1000.4063 Q151.1625,1000.6563 150.7719,1000.6563 Q150.3969,1000.6563 150.1625,1000.4063 Q149.9281,1000.1406 149.9281,999.5313 L149.9281,998.6406 L145.9594,998.6406 L145.9594,1001.0938 L147.4438,1001.0938 Q147.4438,1000.4375 147.5688,1000.25 Q147.8344,999.8438 148.3031,999.8438 Q148.6781,999.8438 148.9125,1000.1094 Q149.1469,1000.3594 149.1469,1000.9688 L149.1469,1002.9375 Q149.1469,1003.4844 149.0219,1003.6719 Q148.7563,1004.0625 148.3031,1004.0625 Q147.8344,1004.0625 147.5688,1003.6563 Q147.4438,1003.4688 147.4438,1002.7969 L145.9594,1002.7969 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="162.9" y="1006.8535">Grade</text><line style="stroke:#181818;stroke-width:0.5;" x1="125" x2="213" y1="1018" y2="1018"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="130" y="1034.6738">BACHELOR</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="130" y="1050.3145">SPECIALIST</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="130" y="1065.9551">MASTER</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="130" y="1081.5957">CANDIDATE</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="130" y="1097.2363">DOCTOR</text></g><!--MD5=[4fb526fd288bcfce6c6147ecce92816e]
+class EducationForm--><g id="elem_EducationForm"><rect codeLine="17" fill="#F1F1F1" height="86.9219" id="EducationForm" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="128" x="645" y="1229.5"/><ellipse cx="660" cy="1245.5" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M658.8594,1246.2969 L658.8594,1248.7969 L663.1875,1248.7969 L663.1875,1247.875 Q663.1875,1247.2656 663.4219,1247 Q663.6719,1246.7344 664.0469,1246.7344 Q664.4219,1246.7344 664.6563,1247 Q664.8906,1247.2656 664.8906,1247.875 L664.8906,1250.5 L656.8906,1250.5 Q656.2656,1250.5 656,1250.2656 Q655.75,1250.0313 655.75,1249.6406 Q655.75,1249.2656 656.0156,1249.0313 Q656.2813,1248.7969 656.8906,1248.7969 L657.1563,1248.7969 L657.1563,1242.1406 L656.8906,1242.1406 Q656.2656,1242.1406 656,1241.9063 Q655.75,1241.6719 655.75,1241.2813 Q655.75,1240.9063 656,1240.6719 Q656.2656,1240.4375 656.8906,1240.4375 L664.5156,1240.4375 L664.5156,1243.0313 Q664.5156,1243.6406 664.2813,1243.9063 Q664.0625,1244.1563 663.6719,1244.1563 Q663.2969,1244.1563 663.0625,1243.9063 Q662.8281,1243.6406 662.8281,1243.0313 L662.8281,1242.1406 L658.8594,1242.1406 L658.8594,1244.5938 L660.3438,1244.5938 Q660.3438,1243.9375 660.4688,1243.75 Q660.7344,1243.3438 661.2031,1243.3438 Q661.5781,1243.3438 661.8125,1243.6094 Q662.0469,1243.8594 662.0469,1244.4688 L662.0469,1246.4375 Q662.0469,1246.9844 661.9219,1247.1719 Q661.6563,1247.5625 661.2031,1247.5625 Q660.7344,1247.5625 660.4688,1247.1563 Q660.3438,1246.9688 660.3438,1246.2969 L658.8594,1246.2969 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="674" y="1250.3535">EducationForm</text><line style="stroke:#181818;stroke-width:0.5;" x1="646" x2="772" y1="1261.5" y2="1261.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="651" y="1278.1738">INTRAMURAL</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="651" y="1293.8145">EXTRAMURAL</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="651" y="1309.4551">REMOTE</text></g><!--MD5=[86c7c362de55a38b660185a1328fe18d]
+class Organization--><g id="elem_Organization"><rect codeLine="24" fill="#F1F1F1" height="235.6875" id="Organization" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="261" x="618.5" y="7"/><ellipse cx="704.25" cy="23" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M706.4375,24.7656 L702.2969,24.7656 L701.875,25.7969 L702.2969,25.7969 Q702.9063,25.7969 703.1719,26.0313 Q703.4375,26.2656 703.4375,26.6563 Q703.4375,27.0313 703.1719,27.2656 Q702.9063,27.5 702.2969,27.5 L700,27.5 Q699.3906,27.5 699.1406,27.2656 Q698.875,27.0313 698.875,26.6406 Q698.875,26.2656 699.1563,26.0313 Q699.4219,25.7813 700.0469,25.7969 L702.7188,19.1406 L701.6094,19.1406 Q701,19.1406 700.7344,18.9063 Q700.4688,18.6719 700.4688,18.2813 Q700.4688,17.9063 700.7344,17.6719 Q701,17.4375 701.6094,17.4375 L705.2813,17.4375 L708.6719,25.7969 Q709.2656,25.7969 709.4531,25.9375 Q709.8438,26.2031 709.8438,26.6563 Q709.8438,27.0313 709.5781,27.2656 Q709.3281,27.5 708.7188,27.5 L706.4219,27.5 Q705.8125,27.5 705.5469,27.2656 Q705.2813,27.0313 705.2813,26.6406 Q705.2813,26.2656 705.5469,26.0313 Q705.8125,25.7969 706.4219,25.7969 L706.8438,25.7969 L706.4375,24.7656 Z M705.7188,23.0625 L704.3594,19.6875 L702.9844,23.0625 L705.7188,23.0625 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="81" x="724.75" y="27.8535">Organization</text><line style="stroke:#181818;stroke-width:0.5;" x1="619.5" x2="878.5" y1="39" y2="39"/><ellipse cx="629.5" cy="52.3203" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="638.5" y="55.6738">name: str</text><ellipse cx="629.5" cy="67.9609" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="638.5" y="71.3145">address: str</text><ellipse cx="629.5" cy="83.6016" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="638.5" y="86.9551">contacts: dict[str, str]</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="626.5" y="96.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="638.5" y="102.5957">head: Administrator</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="626.5" y="111.8828"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="163" x="638.5" y="118.2363">employees: list[Employee]</text><polygon fill="none" points="629.5,125.5234,633.5,129.5234,629.5,133.5234,625.5,129.5234" style="stroke:#B38D22;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="638.5" y="133.877">budget: Decimal</text><line style="stroke:#181818;stroke-width:0.5;" x1="619.5" x2="878.5" y1="140.8438" y2="140.8438"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="638.5" y="157.5176">__init__()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="638.5" y="173.1582">__str__()</text><ellipse cx="629.5" cy="185.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="97" x="638.5" y="188.7988">change_head()</text><ellipse cx="629.5" cy="201.0859" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="235" x="638.5" y="204.4395">hire_employee(candidate: Employee)</text><ellipse cx="629.5" cy="216.7266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="230" x="638.5" y="220.0801">fire_employee(employee: Employee)</text><ellipse cx="629.5" cy="232.3672" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="186" x="638.5" y="235.7207">set_budget(amount: Decimal)</text></g><!--MD5=[9f93fc4de6aba39e63ecc8b5110a2944]
+class University--><g id="elem_University"><rect codeLine="46" fill="#F1F1F1" height="110.5625" id="University" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="179" x="354.5" y="323.5"/><ellipse cx="409.25" cy="339.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M412.0156,335.375 Q412.1719,335.1563 412.3594,335.0469 Q412.5469,334.9375 412.7656,334.9375 Q413.1406,334.9375 413.375,335.2031 Q413.6094,335.4531 413.6094,336.0625 L413.6094,337.5156 Q413.6094,338.125 413.375,338.3906 Q413.1406,338.6563 412.7656,338.6563 Q412.4219,338.6563 412.2188,338.4531 Q412.0156,338.2656 411.9063,337.75 Q411.8594,337.3906 411.6719,337.2031 Q411.3438,336.8281 410.7344,336.6094 Q410.125,336.3906 409.5,336.3906 Q408.7344,336.3906 408.0938,336.7188 Q407.4688,337.0469 406.9688,337.7969 Q406.4844,338.5469 406.4844,339.5781 L406.4844,340.6719 Q406.4844,341.9063 407.375,342.7344 Q408.2656,343.5469 409.8594,343.5469 Q410.7969,343.5469 411.4531,343.2969 Q411.8438,343.1406 412.2656,342.7031 Q412.5313,342.4375 412.6719,342.3594 Q412.8281,342.2813 413.0313,342.2813 Q413.3594,342.2813 413.6094,342.5469 Q413.875,342.7969 413.875,343.1406 Q413.875,343.4844 413.5313,343.8906 Q413.0313,344.4688 412.2344,344.7969 Q411.1563,345.25 409.8594,345.25 Q408.3438,345.25 407.1406,344.625 Q406.1563,344.125 405.4688,343.0625 Q404.7813,341.9844 404.7813,340.7031 L404.7813,339.5469 Q404.7813,338.2188 405.3906,337.0781 Q406.0156,335.9219 407.1094,335.3125 Q408.2031,334.6875 409.4375,334.6875 Q410.1719,334.6875 410.8125,334.8594 Q411.4688,335.0156 412.0156,335.375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="429.75" y="344.3535">University</text><line style="stroke:#181818;stroke-width:0.5;" x1="355.5" x2="532.5" y1="355.5" y2="355.5"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="362.5" y="365.8203"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="374.5" y="372.1738">branches: list[University]</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="362.5" y="381.4609"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="374.5" y="387.8145">institutes: list[Institute]</text><line style="stroke:#181818;stroke-width:0.5;" x1="355.5" x2="532.5" y1="394.7813" y2="394.7813"/><ellipse cx="365.5" cy="408.1016" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="374.5" y="411.4551">add_branch(*branches)</text><ellipse cx="365.5" cy="423.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="152" x="374.5" y="427.0957">add_institute(*institutes)</text></g><!--MD5=[9e4e4cf0c0a8614885bc80c56d1fd6e3]
+class Dormitory--><g id="elem_Dormitory"><rect codeLine="56" fill="#F1F1F1" height="63.6406" id="Dormitory" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="208" x="727" y="346.5"/><ellipse cx="796.25" cy="362.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M799.0156,358.375 Q799.1719,358.1563 799.3594,358.0469 Q799.5469,357.9375 799.7656,357.9375 Q800.1406,357.9375 800.375,358.2031 Q800.6094,358.4531 800.6094,359.0625 L800.6094,360.5156 Q800.6094,361.125 800.375,361.3906 Q800.1406,361.6563 799.7656,361.6563 Q799.4219,361.6563 799.2188,361.4531 Q799.0156,361.2656 798.9063,360.75 Q798.8594,360.3906 798.6719,360.2031 Q798.3438,359.8281 797.7344,359.6094 Q797.125,359.3906 796.5,359.3906 Q795.7344,359.3906 795.0938,359.7188 Q794.4688,360.0469 793.9688,360.7969 Q793.4844,361.5469 793.4844,362.5781 L793.4844,363.6719 Q793.4844,364.9063 794.375,365.7344 Q795.2656,366.5469 796.8594,366.5469 Q797.7969,366.5469 798.4531,366.2969 Q798.8438,366.1406 799.2656,365.7031 Q799.5313,365.4375 799.6719,365.3594 Q799.8281,365.2813 800.0313,365.2813 Q800.3594,365.2813 800.6094,365.5469 Q800.875,365.7969 800.875,366.1406 Q800.875,366.4844 800.5313,366.8906 Q800.0313,367.4688 799.2344,367.7969 Q798.1563,368.25 796.8594,368.25 Q795.3438,368.25 794.1406,367.625 Q793.1563,367.125 792.4688,366.0625 Q791.7813,364.9844 791.7813,363.7031 L791.7813,362.5469 Q791.7813,361.2188 792.3906,360.0781 Q793.0156,358.9219 794.1094,358.3125 Q795.2031,357.6875 796.4375,357.6875 Q797.1719,357.6875 797.8125,357.8594 Q798.4688,358.0156 799.0156,358.375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="816.75" y="367.3535">Dormitory</text><line style="stroke:#181818;stroke-width:0.5;" x1="728" x2="934" y1="378.5" y2="378.5"/><ellipse cx="738" cy="391.8203" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="182" x="747" y="395.1738">rooms: dict[str, list[Students]]</text><line style="stroke:#181818;stroke-width:0.5;" x1="728" x2="934" y1="402.1406" y2="402.1406"/></g><!--MD5=[4b6642d386bd8b931a325ab7d7230c63]
+class Institute--><g id="elem_Institute"><rect codeLine="62" fill="#F1F1F1" height="79.2813" id="Institute" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="224" x="381" y="549"/><ellipse cx="464.25" cy="565" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M467.0156,560.875 Q467.1719,560.6563 467.3594,560.5469 Q467.5469,560.4375 467.7656,560.4375 Q468.1406,560.4375 468.375,560.7031 Q468.6094,560.9531 468.6094,561.5625 L468.6094,563.0156 Q468.6094,563.625 468.375,563.8906 Q468.1406,564.1563 467.7656,564.1563 Q467.4219,564.1563 467.2188,563.9531 Q467.0156,563.7656 466.9063,563.25 Q466.8594,562.8906 466.6719,562.7031 Q466.3438,562.3281 465.7344,562.1094 Q465.125,561.8906 464.5,561.8906 Q463.7344,561.8906 463.0938,562.2188 Q462.4688,562.5469 461.9688,563.2969 Q461.4844,564.0469 461.4844,565.0781 L461.4844,566.1719 Q461.4844,567.4063 462.375,568.2344 Q463.2656,569.0469 464.8594,569.0469 Q465.7969,569.0469 466.4531,568.7969 Q466.8438,568.6406 467.2656,568.2031 Q467.5313,567.9375 467.6719,567.8594 Q467.8281,567.7813 468.0313,567.7813 Q468.3594,567.7813 468.6094,568.0469 Q468.875,568.2969 468.875,568.6406 Q468.875,568.9844 468.5313,569.3906 Q468.0313,569.9688 467.2344,570.2969 Q466.1563,570.75 464.8594,570.75 Q463.3438,570.75 462.1406,570.125 Q461.1563,569.625 460.4688,568.5625 Q459.7813,567.4844 459.7813,566.2031 L459.7813,565.0469 Q459.7813,563.7188 460.3906,562.5781 Q461.0156,561.4219 462.1094,560.8125 Q463.2031,560.1875 464.4375,560.1875 Q465.1719,560.1875 465.8125,560.3594 Q466.4688,560.5156 467.0156,560.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="484.75" y="569.8535">Institute</text><line style="stroke:#181818;stroke-width:0.5;" x1="382" x2="604" y1="581" y2="581"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="389" y="591.3203"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="186" x="401" y="597.6738">departments: list[Department]</text><line style="stroke:#181818;stroke-width:0.5;" x1="382" x2="604" y1="604.6406" y2="604.6406"/><ellipse cx="392" cy="617.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="198" x="401" y="621.3145">add_department(*departments)</text></g><!--MD5=[c50d89439a12e948b363c4efab1c487c]
+class Department--><g id="elem_Department"><rect codeLine="69" fill="#F1F1F1" height="94.9219" id="Department" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="143" x="421.5" y="759"/><ellipse cx="453.15" cy="775" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M455.9156,770.875 Q456.0719,770.6563 456.2594,770.5469 Q456.4469,770.4375 456.6656,770.4375 Q457.0406,770.4375 457.275,770.7031 Q457.5094,770.9531 457.5094,771.5625 L457.5094,773.0156 Q457.5094,773.625 457.275,773.8906 Q457.0406,774.1563 456.6656,774.1563 Q456.3219,774.1563 456.1188,773.9531 Q455.9156,773.7656 455.8063,773.25 Q455.7594,772.8906 455.5719,772.7031 Q455.2438,772.3281 454.6344,772.1094 Q454.025,771.8906 453.4,771.8906 Q452.6344,771.8906 451.9938,772.2188 Q451.3688,772.5469 450.8688,773.2969 Q450.3844,774.0469 450.3844,775.0781 L450.3844,776.1719 Q450.3844,777.4063 451.275,778.2344 Q452.1656,779.0469 453.7594,779.0469 Q454.6969,779.0469 455.3531,778.7969 Q455.7438,778.6406 456.1656,778.2031 Q456.4313,777.9375 456.5719,777.8594 Q456.7281,777.7813 456.9313,777.7813 Q457.2594,777.7813 457.5094,778.0469 Q457.775,778.2969 457.775,778.6406 Q457.775,778.9844 457.4313,779.3906 Q456.9313,779.9688 456.1344,780.2969 Q455.0563,780.75 453.7594,780.75 Q452.2438,780.75 451.0406,780.125 Q450.0563,779.625 449.3688,778.5625 Q448.6813,777.4844 448.6813,776.2031 L448.6813,775.0469 Q448.6813,773.7188 449.2906,772.5781 Q449.9156,771.4219 451.0094,770.8125 Q452.1031,770.1875 453.3375,770.1875 Q454.0719,770.1875 454.7125,770.3594 Q455.3688,770.5156 455.9156,770.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="470.85" y="779.8535">Department</text><line style="stroke:#181818;stroke-width:0.5;" x1="422.5" x2="563.5" y1="791" y2="791"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="429.5" y="801.3203"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="441.5" y="807.6738">groups: list[Group]</text><line style="stroke:#181818;stroke-width:0.5;" x1="422.5" x2="563.5" y1="814.6406" y2="814.6406"/><ellipse cx="432.5" cy="827.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="441.5" y="831.3145">add_group(group)</text><ellipse cx="432.5" cy="843.6016" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="441.5" y="846.9551">rem_group(group)</text></g><!--MD5=[da547346deef918ea16944ba046651ef]
+class Administrator--><g id="elem_Administrator"><rect codeLine="143" fill="#F1F1F1" height="110.5625" id="Administrator" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="257" x="1162.5" y="533.5"/><ellipse cx="1245.25" cy="549.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1248.0156,545.375 Q1248.1719,545.1563 1248.3594,545.0469 Q1248.5469,544.9375 1248.7656,544.9375 Q1249.1406,544.9375 1249.375,545.2031 Q1249.6094,545.4531 1249.6094,546.0625 L1249.6094,547.5156 Q1249.6094,548.125 1249.375,548.3906 Q1249.1406,548.6563 1248.7656,548.6563 Q1248.4219,548.6563 1248.2188,548.4531 Q1248.0156,548.2656 1247.9063,547.75 Q1247.8594,547.3906 1247.6719,547.2031 Q1247.3438,546.8281 1246.7344,546.6094 Q1246.125,546.3906 1245.5,546.3906 Q1244.7344,546.3906 1244.0938,546.7188 Q1243.4688,547.0469 1242.9688,547.7969 Q1242.4844,548.5469 1242.4844,549.5781 L1242.4844,550.6719 Q1242.4844,551.9063 1243.375,552.7344 Q1244.2656,553.5469 1245.8594,553.5469 Q1246.7969,553.5469 1247.4531,553.2969 Q1247.8438,553.1406 1248.2656,552.7031 Q1248.5313,552.4375 1248.6719,552.3594 Q1248.8281,552.2813 1249.0313,552.2813 Q1249.3594,552.2813 1249.6094,552.5469 Q1249.875,552.7969 1249.875,553.1406 Q1249.875,553.4844 1249.5313,553.8906 Q1249.0313,554.4688 1248.2344,554.7969 Q1247.1563,555.25 1245.8594,555.25 Q1244.3438,555.25 1243.1406,554.625 Q1242.1563,554.125 1241.4688,553.0625 Q1240.7813,551.9844 1240.7813,550.7031 L1240.7813,549.5469 Q1240.7813,548.2188 1241.3906,547.0781 Q1242.0156,545.9219 1243.1094,545.3125 Q1244.2031,544.6875 1245.4375,544.6875 Q1246.1719,544.6875 1246.8125,544.8594 Q1247.4688,545.0156 1248.0156,545.375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="1265.75" y="554.3535">Administrator</text><line style="stroke:#181818;stroke-width:0.5;" x1="1163.5" x2="1418.5" y1="565.5" y2="565.5"/><ellipse cx="1173.5" cy="578.8203" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="1182.5" y="582.1738">subordinates: list[Employee]</text><line style="stroke:#181818;stroke-width:0.5;" x1="1163.5" x2="1418.5" y1="589.1406" y2="589.1406"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="1182.5" y="605.8145">__str__()</text><ellipse cx="1173.5" cy="618.1016" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="231" x="1182.5" y="621.4551">add_subordinate(person: Employee)</text><ellipse cx="1173.5" cy="633.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="231" x="1182.5" y="637.0957">rem_subordinate(person: Employee)</text></g><!--MD5=[7421f545a0d8420c5bec41e74b387d9c]
+class Employee--><g id="elem_Employee"><rect codeLine="160" fill="#F1F1F1" height="141.8438" id="Employee" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="183" x="1001.5" y="308"/><ellipse cx="1057.75" cy="324" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1059.9375,325.7656 L1055.7969,325.7656 L1055.375,326.7969 L1055.7969,326.7969 Q1056.4063,326.7969 1056.6719,327.0313 Q1056.9375,327.2656 1056.9375,327.6563 Q1056.9375,328.0313 1056.6719,328.2656 Q1056.4063,328.5 1055.7969,328.5 L1053.5,328.5 Q1052.8906,328.5 1052.6406,328.2656 Q1052.375,328.0313 1052.375,327.6406 Q1052.375,327.2656 1052.6563,327.0313 Q1052.9219,326.7813 1053.5469,326.7969 L1056.2188,320.1406 L1055.1094,320.1406 Q1054.5,320.1406 1054.2344,319.9063 Q1053.9688,319.6719 1053.9688,319.2813 Q1053.9688,318.9063 1054.2344,318.6719 Q1054.5,318.4375 1055.1094,318.4375 L1058.7813,318.4375 L1062.1719,326.7969 Q1062.7656,326.7969 1062.9531,326.9375 Q1063.3438,327.2031 1063.3438,327.6563 Q1063.3438,328.0313 1063.0781,328.2656 Q1062.8281,328.5 1062.2188,328.5 L1059.9219,328.5 Q1059.3125,328.5 1059.0469,328.2656 Q1058.7813,328.0313 1058.7813,327.6406 Q1058.7813,327.2656 1059.0469,327.0313 Q1059.3125,326.7969 1059.9219,326.7969 L1060.3438,326.7969 L1059.9375,325.7656 Z M1059.2188,324.0625 L1057.8594,320.6875 L1056.4844,324.0625 L1059.2188,324.0625 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="62" x="1078.25" y="328.8535">Employee</text><line style="stroke:#181818;stroke-width:0.5;" x1="1002.5" x2="1183.5" y1="340" y2="340"/><ellipse cx="1012.5" cy="353.3203" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="1021.5" y="356.6738">employment_date: date</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1009.5" y="365.9609"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="1021.5" y="372.3145">salary: Decimal</text><ellipse cx="1012.5" cy="384.6016" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="1021.5" y="387.9551">position: str</text><ellipse cx="1012.5" cy="400.2422" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="1021.5" y="403.5957">supervisor: Administrator</text><line style="stroke:#181818;stroke-width:0.5;" x1="1002.5" x2="1183.5" y1="410.5625" y2="410.5625"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="1007.5" y="427.2363">__init__()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="1007.5" y="442.877">__str__()</text></g><!--MD5=[d6181cb537bdc20c0a3007a98a56832d]
+class Student--><g id="elem_Student"><rect codeLine="99" fill="#F1F1F1" height="157.4844" id="Student" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="171" x="699.5" y="728"/><ellipse cx="756.25" cy="744" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M759.0156,739.875 Q759.1719,739.6563 759.3594,739.5469 Q759.5469,739.4375 759.7656,739.4375 Q760.1406,739.4375 760.375,739.7031 Q760.6094,739.9531 760.6094,740.5625 L760.6094,742.0156 Q760.6094,742.625 760.375,742.8906 Q760.1406,743.1563 759.7656,743.1563 Q759.4219,743.1563 759.2188,742.9531 Q759.0156,742.7656 758.9063,742.25 Q758.8594,741.8906 758.6719,741.7031 Q758.3438,741.3281 757.7344,741.1094 Q757.125,740.8906 756.5,740.8906 Q755.7344,740.8906 755.0938,741.2188 Q754.4688,741.5469 753.9688,742.2969 Q753.4844,743.0469 753.4844,744.0781 L753.4844,745.1719 Q753.4844,746.4063 754.375,747.2344 Q755.2656,748.0469 756.8594,748.0469 Q757.7969,748.0469 758.4531,747.7969 Q758.8438,747.6406 759.2656,747.2031 Q759.5313,746.9375 759.6719,746.8594 Q759.8281,746.7813 760.0313,746.7813 Q760.3594,746.7813 760.6094,747.0469 Q760.875,747.2969 760.875,747.6406 Q760.875,747.9844 760.5313,748.3906 Q760.0313,748.9688 759.2344,749.2969 Q758.1563,749.75 756.8594,749.75 Q755.3438,749.75 754.1406,749.125 Q753.1563,748.625 752.4688,747.5625 Q751.7813,746.4844 751.7813,745.2031 L751.7813,744.0469 Q751.7813,742.7188 752.3906,741.5781 Q753.0156,740.4219 754.1094,739.8125 Q755.2031,739.1875 756.4375,739.1875 Q757.1719,739.1875 757.8125,739.3594 Q758.4688,739.5156 759.0156,739.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="776.75" y="748.8535">Student</text><line style="stroke:#181818;stroke-width:0.5;" x1="700.5" x2="869.5" y1="760" y2="760"/><ellipse cx="710.5" cy="773.3203" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="719.5" y="776.6738">group: Group</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="707.5" y="785.9609"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="719.5" y="792.3145">grant: Decimal</text><ellipse cx="710.5" cy="804.6016" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="719.5" y="807.9551">year: int = 1</text><ellipse cx="710.5" cy="820.2422" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="719.5" y="823.5957">dormitory: bool = False</text><line style="stroke:#181818;stroke-width:0.5;" x1="700.5" x2="869.5" y1="830.5625" y2="830.5625"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="719.5" y="847.2363">__init__()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="719.5" y="862.877">__str__()</text><ellipse cx="710.5" cy="875.1641" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="719.5" y="878.5176">promote()</text></g><!--MD5=[41314a0efc36828092cff9ebad2fcafd]
+class Group--><g id="elem_Group"><rect codeLine="82" fill="#F1F1F1" height="188.7656" id="Group" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="181" x="617.5" y="952"/><ellipse cx="683.75" cy="968" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M686.5156,963.875 Q686.6719,963.6563 686.8594,963.5469 Q687.0469,963.4375 687.2656,963.4375 Q687.6406,963.4375 687.875,963.7031 Q688.1094,963.9531 688.1094,964.5625 L688.1094,966.0156 Q688.1094,966.625 687.875,966.8906 Q687.6406,967.1563 687.2656,967.1563 Q686.9219,967.1563 686.7188,966.9531 Q686.5156,966.7656 686.4063,966.25 Q686.3594,965.8906 686.1719,965.7031 Q685.8438,965.3281 685.2344,965.1094 Q684.625,964.8906 684,964.8906 Q683.2344,964.8906 682.5938,965.2188 Q681.9688,965.5469 681.4688,966.2969 Q680.9844,967.0469 680.9844,968.0781 L680.9844,969.1719 Q680.9844,970.4063 681.875,971.2344 Q682.7656,972.0469 684.3594,972.0469 Q685.2969,972.0469 685.9531,971.7969 Q686.3438,971.6406 686.7656,971.2031 Q687.0313,970.9375 687.1719,970.8594 Q687.3281,970.7813 687.5313,970.7813 Q687.8594,970.7813 688.1094,971.0469 Q688.375,971.2969 688.375,971.6406 Q688.375,971.9844 688.0313,972.3906 Q687.5313,972.9688 686.7344,973.2969 Q685.6563,973.75 684.3594,973.75 Q682.8438,973.75 681.6406,973.125 Q680.6563,972.625 679.9688,971.5625 Q679.2813,970.4844 679.2813,969.2031 L679.2813,968.0469 Q679.2813,966.7188 679.8906,965.5781 Q680.5156,964.4219 681.6094,963.8125 Q682.7031,963.1875 683.9375,963.1875 Q684.6719,963.1875 685.3125,963.3594 Q685.9688,963.5156 686.5156,963.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="704.25" y="972.8535">Group</text><line style="stroke:#181818;stroke-width:0.5;" x1="618.5" x2="797.5" y1="984" y2="984"/><ellipse cx="628.5" cy="997.3203" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="637.5" y="1000.6738">name: str</text><ellipse cx="628.5" cy="1012.9609" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="637.5" y="1016.3145">major: str</text><ellipse cx="628.5" cy="1028.6016" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="637.5" y="1031.9551">form: EducationForm</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="625.5" y="1041.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="637.5" y="1047.5957">chief: Student</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="625.5" y="1056.8828"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="106" x="637.5" y="1063.2363">curator: Teacher</text><line style="stroke:#181818;stroke-width:0.5;" x1="618.5" x2="797.5" y1="1070.2031" y2="1070.2031"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="637.5" y="1086.877">__init__()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="637.5" y="1102.5176">__str__()</text><ellipse cx="628.5" cy="1114.8047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="637.5" y="1118.1582">change_chief(student)</text><ellipse cx="628.5" cy="1130.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="637.5" y="1133.7988">change_curator(curator)</text></g><!--MD5=[ce0bdc9c9d7363fc59409c686ba93793]
+class list--><g id="elem_list"><rect codeLine="77" fill="#F1F1F1" height="32" id="list" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="49" x="607.5" y="790"/><ellipse cx="622.5" cy="806" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M624.6875,807.7656 L620.5469,807.7656 L620.125,808.7969 L620.5469,808.7969 Q621.1563,808.7969 621.4219,809.0313 Q621.6875,809.2656 621.6875,809.6563 Q621.6875,810.0313 621.4219,810.2656 Q621.1563,810.5 620.5469,810.5 L618.25,810.5 Q617.6406,810.5 617.3906,810.2656 Q617.125,810.0313 617.125,809.6406 Q617.125,809.2656 617.4063,809.0313 Q617.6719,808.7813 618.2969,808.7969 L620.9688,802.1406 L619.8594,802.1406 Q619.25,802.1406 618.9844,801.9063 Q618.7188,801.6719 618.7188,801.2813 Q618.7188,800.9063 618.9844,800.6719 Q619.25,800.4375 619.8594,800.4375 L623.5313,800.4375 L626.9219,808.7969 Q627.5156,808.7969 627.7031,808.9375 Q628.0938,809.2031 628.0938,809.6563 Q628.0938,810.0313 627.8281,810.2656 Q627.5781,810.5 626.9688,810.5 L624.6719,810.5 Q624.0625,810.5 623.7969,810.2656 Q623.5313,810.0313 623.5313,809.6406 Q623.5313,809.2656 623.7969,809.0313 Q624.0625,808.7969 624.6719,808.7969 L625.0938,808.7969 L624.6875,807.7656 Z M623.9688,806.0625 L622.6094,802.6875 L621.2344,806.0625 L623.9688,806.0625 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="17" x="636.5" y="810.8535">list</text></g><!--MD5=[61a83f88cb8b7d3a80bc8c481f3736bf]
+class Teacher--><g id="elem_Teacher"><rect codeLine="111" fill="#F1F1F1" height="141.8438" id="Teacher" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="221" x="268.5" y="1202"/><ellipse cx="348.25" cy="1218" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M351.0156,1213.875 Q351.1719,1213.6563 351.3594,1213.5469 Q351.5469,1213.4375 351.7656,1213.4375 Q352.1406,1213.4375 352.375,1213.7031 Q352.6094,1213.9531 352.6094,1214.5625 L352.6094,1216.0156 Q352.6094,1216.625 352.375,1216.8906 Q352.1406,1217.1563 351.7656,1217.1563 Q351.4219,1217.1563 351.2188,1216.9531 Q351.0156,1216.7656 350.9063,1216.25 Q350.8594,1215.8906 350.6719,1215.7031 Q350.3438,1215.3281 349.7344,1215.1094 Q349.125,1214.8906 348.5,1214.8906 Q347.7344,1214.8906 347.0938,1215.2188 Q346.4688,1215.5469 345.9688,1216.2969 Q345.4844,1217.0469 345.4844,1218.0781 L345.4844,1219.1719 Q345.4844,1220.4063 346.375,1221.2344 Q347.2656,1222.0469 348.8594,1222.0469 Q349.7969,1222.0469 350.4531,1221.7969 Q350.8438,1221.6406 351.2656,1221.2031 Q351.5313,1220.9375 351.6719,1220.8594 Q351.8281,1220.7813 352.0313,1220.7813 Q352.3594,1220.7813 352.6094,1221.0469 Q352.875,1221.2969 352.875,1221.6406 Q352.875,1221.9844 352.5313,1222.3906 Q352.0313,1222.9688 351.2344,1223.2969 Q350.1563,1223.75 348.8594,1223.75 Q347.3438,1223.75 346.1406,1223.125 Q345.1563,1222.625 344.4688,1221.5625 Q343.7813,1220.4844 343.7813,1219.2031 L343.7813,1218.0469 Q343.7813,1216.7188 344.3906,1215.5781 Q345.0156,1214.4219 346.1094,1213.8125 Q347.2031,1213.1875 348.4375,1213.1875 Q349.1719,1213.1875 349.8125,1213.3594 Q350.4688,1213.5156 351.0156,1213.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="368.75" y="1222.8535">Teacher</text><line style="stroke:#181818;stroke-width:0.5;" x1="269.5" x2="488.5" y1="1234" y2="1234"/><ellipse cx="279.5" cy="1247.3203" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="288.5" y="1250.6738">courses: list[str]</text><ellipse cx="279.5" cy="1262.9609" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="172" x="288.5" y="1266.3145">professorship: bool = False</text><line style="stroke:#181818;stroke-width:0.5;" x1="269.5" x2="488.5" y1="1273.2813" y2="1273.2813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="288.5" y="1289.9551">__init__()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="288.5" y="1305.5957">__str__()</text><ellipse cx="279.5" cy="1317.8828" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="195" x="288.5" y="1321.2363">add_course(course_name: str)</text><ellipse cx="279.5" cy="1333.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="195" x="288.5" y="1336.877">rem_course(course_name: str)</text></g><!--MD5=[e935e38ad824dc5afae6927ef6139094]
+class Researcher--><g id="elem_Researcher"><rect codeLine="121" fill="#F1F1F1" height="94.9219" id="Researcher" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="184" x="7" y="759"/><ellipse cx="57.75" cy="775" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M60.5156,770.875 Q60.6719,770.6563 60.8594,770.5469 Q61.0469,770.4375 61.2656,770.4375 Q61.6406,770.4375 61.875,770.7031 Q62.1094,770.9531 62.1094,771.5625 L62.1094,773.0156 Q62.1094,773.625 61.875,773.8906 Q61.6406,774.1563 61.2656,774.1563 Q60.9219,774.1563 60.7188,773.9531 Q60.5156,773.7656 60.4063,773.25 Q60.3594,772.8906 60.1719,772.7031 Q59.8438,772.3281 59.2344,772.1094 Q58.625,771.8906 58,771.8906 Q57.2344,771.8906 56.5938,772.2188 Q55.9688,772.5469 55.4688,773.2969 Q54.9844,774.0469 54.9844,775.0781 L54.9844,776.1719 Q54.9844,777.4063 55.875,778.2344 Q56.7656,779.0469 58.3594,779.0469 Q59.2969,779.0469 59.9531,778.7969 Q60.3438,778.6406 60.7656,778.2031 Q61.0313,777.9375 61.1719,777.8594 Q61.3281,777.7813 61.5313,777.7813 Q61.8594,777.7813 62.1094,778.0469 Q62.375,778.2969 62.375,778.6406 Q62.375,778.9844 62.0313,779.3906 Q61.5313,779.9688 60.7344,780.2969 Q59.6563,780.75 58.3594,780.75 Q56.8438,780.75 55.6406,780.125 Q54.6563,779.625 53.9688,778.5625 Q53.2813,777.4844 53.2813,776.2031 L53.2813,775.0469 Q53.2813,773.7188 53.8906,772.5781 Q54.5156,771.4219 55.6094,770.8125 Q56.7031,770.1875 57.9375,770.1875 Q58.6719,770.1875 59.3125,770.3594 Q59.9688,770.5156 60.5156,770.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="78.25" y="779.8535">Researcher</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="190" y1="791" y2="791"/><ellipse cx="18" cy="804.3203" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="27" y="807.6738">grade: Grade = MASTER</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="190" y1="814.6406" y2="814.6406"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="13" y="831.3145">__init__()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="13" y="846.9551">__str__()</text></g><!--MD5=[66be2eb09e2a5276b4b7b897f473f435]
+class ProfessionalPersonnel--><g id="elem_ProfessionalPersonnel"><rect codeLine="129" fill="#F1F1F1" height="145.8438" id="ProfessionalPersonnel" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="204" x="126" y="516"/><ellipse cx="154.5" cy="532" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M156.6875,533.7656 L152.5469,533.7656 L152.125,534.7969 L152.5469,534.7969 Q153.1563,534.7969 153.4219,535.0313 Q153.6875,535.2656 153.6875,535.6563 Q153.6875,536.0313 153.4219,536.2656 Q153.1563,536.5 152.5469,536.5 L150.25,536.5 Q149.6406,536.5 149.3906,536.2656 Q149.125,536.0313 149.125,535.6406 Q149.125,535.2656 149.4063,535.0313 Q149.6719,534.7813 150.2969,534.7969 L152.9688,528.1406 L151.8594,528.1406 Q151.25,528.1406 150.9844,527.9063 Q150.7188,527.6719 150.7188,527.2813 Q150.7188,526.9063 150.9844,526.6719 Q151.25,526.4375 151.8594,526.4375 L155.5313,526.4375 L158.9219,534.7969 Q159.5156,534.7969 159.7031,534.9375 Q160.0938,535.2031 160.0938,535.6563 Q160.0938,536.0313 159.8281,536.2656 Q159.5781,536.5 158.9688,536.5 L156.6719,536.5 Q156.0625,536.5 155.7969,536.2656 Q155.5313,536.0313 155.5313,535.6406 Q155.5313,535.2656 155.7969,535.0313 Q156.0625,534.7969 156.6719,534.7969 L157.0938,534.7969 L156.6875,533.7656 Z M155.9688,532.0625 L154.6094,528.6875 L153.2344,532.0625 L155.9688,532.0625 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="142" x="171.5" y="536.8535">ProfessionalPersonnel</text><line style="stroke:#181818;stroke-width:0.5;" x1="127" x2="329" y1="548" y2="548"/><ellipse cx="137" cy="561.3203" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="146" y="564.6738">previous_experience: int = 0</text><ellipse cx="137" cy="576.9609" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="176" x="146" y="580.3145">grade: Grade = BACHELOR</text><ellipse cx="137" cy="612.2422" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="127" x="146" y="615.5957">total_experience: int</text><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:1.0,2.0;" x1="127" x2="196" y1="595.1016" y2="595.1016"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="196" y="599.4551">properties</text><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:1.0,2.0;" x1="260" x2="329" y1="595.1016" y2="595.1016"/><line style="stroke:#181818;stroke-width:0.5;" x1="127" x2="329" y1="622.5625" y2="622.5625"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="132" y="639.2363">__init__()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="132" y="654.877">__str__()</text></g><!--MD5=[589bf72dc57fcf64922127607383ea63]
+class SecurityPersonnel--><g id="elem_SecurityPersonnel"><rect codeLine="152" fill="#F1F1F1" height="63.6406" id="SecurityPersonnel" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="147" x="790.5" y="556"/><ellipse cx="805.5" cy="572" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M808.2656,567.875 Q808.4219,567.6563 808.6094,567.5469 Q808.7969,567.4375 809.0156,567.4375 Q809.3906,567.4375 809.625,567.7031 Q809.8594,567.9531 809.8594,568.5625 L809.8594,570.0156 Q809.8594,570.625 809.625,570.8906 Q809.3906,571.1563 809.0156,571.1563 Q808.6719,571.1563 808.4688,570.9531 Q808.2656,570.7656 808.1563,570.25 Q808.1094,569.8906 807.9219,569.7031 Q807.5938,569.3281 806.9844,569.1094 Q806.375,568.8906 805.75,568.8906 Q804.9844,568.8906 804.3438,569.2188 Q803.7188,569.5469 803.2188,570.2969 Q802.7344,571.0469 802.7344,572.0781 L802.7344,573.1719 Q802.7344,574.4063 803.625,575.2344 Q804.5156,576.0469 806.1094,576.0469 Q807.0469,576.0469 807.7031,575.7969 Q808.0938,575.6406 808.5156,575.2031 Q808.7813,574.9375 808.9219,574.8594 Q809.0781,574.7813 809.2813,574.7813 Q809.6094,574.7813 809.8594,575.0469 Q810.125,575.2969 810.125,575.6406 Q810.125,575.9844 809.7813,576.3906 Q809.2813,576.9688 808.4844,577.2969 Q807.4063,577.75 806.1094,577.75 Q804.5938,577.75 803.3906,577.125 Q802.4063,576.625 801.7188,575.5625 Q801.0313,574.4844 801.0313,573.2031 L801.0313,572.0469 Q801.0313,570.7188 801.6406,569.5781 Q802.2656,568.4219 803.3594,567.8125 Q804.4531,567.1875 805.6875,567.1875 Q806.4219,567.1875 807.0625,567.3594 Q807.7188,567.5156 808.2656,567.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="115" x="819.5" y="576.8535">SecurityPersonnel</text><line style="stroke:#181818;stroke-width:0.5;" x1="791.5" x2="936.5" y1="588" y2="588"/><line style="stroke:#181818;stroke-width:0.5;" x1="791.5" x2="936.5" y1="596" y2="596"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="796.5" y="612.6738">__str__()</text></g><!--MD5=[900743c7b6d2b3c98ff018fe2d795a86]
+class GeneralPersonnel--><g id="elem_GeneralPersonnel"><rect codeLine="156" fill="#F1F1F1" height="63.6406" id="GeneralPersonnel" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="147" x="972.5" y="556"/><ellipse cx="987.5" cy="572" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M990.2656,567.875 Q990.4219,567.6563 990.6094,567.5469 Q990.7969,567.4375 991.0156,567.4375 Q991.3906,567.4375 991.625,567.7031 Q991.8594,567.9531 991.8594,568.5625 L991.8594,570.0156 Q991.8594,570.625 991.625,570.8906 Q991.3906,571.1563 991.0156,571.1563 Q990.6719,571.1563 990.4688,570.9531 Q990.2656,570.7656 990.1563,570.25 Q990.1094,569.8906 989.9219,569.7031 Q989.5938,569.3281 988.9844,569.1094 Q988.375,568.8906 987.75,568.8906 Q986.9844,568.8906 986.3438,569.2188 Q985.7188,569.5469 985.2188,570.2969 Q984.7344,571.0469 984.7344,572.0781 L984.7344,573.1719 Q984.7344,574.4063 985.625,575.2344 Q986.5156,576.0469 988.1094,576.0469 Q989.0469,576.0469 989.7031,575.7969 Q990.0938,575.6406 990.5156,575.2031 Q990.7813,574.9375 990.9219,574.8594 Q991.0781,574.7813 991.2813,574.7813 Q991.6094,574.7813 991.8594,575.0469 Q992.125,575.2969 992.125,575.6406 Q992.125,575.9844 991.7813,576.3906 Q991.2813,576.9688 990.4844,577.2969 Q989.4063,577.75 988.1094,577.75 Q986.5938,577.75 985.3906,577.125 Q984.4063,576.625 983.7188,575.5625 Q983.0313,574.4844 983.0313,573.2031 L983.0313,572.0469 Q983.0313,570.7188 983.6406,569.5781 Q984.2656,568.4219 985.3594,567.8125 Q986.4531,567.1875 987.6875,567.1875 Q988.4219,567.1875 989.0625,567.3594 Q989.7188,567.5156 990.2656,567.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="115" x="1001.5" y="576.8535">GeneralPersonnel</text><line style="stroke:#181818;stroke-width:0.5;" x1="973.5" x2="1118.5" y1="588" y2="588"/><line style="stroke:#181818;stroke-width:0.5;" x1="973.5" x2="1118.5" y1="596" y2="596"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="978.5" y="612.6738">__str__()</text></g><!--MD5=[09ce52be0ee7de43c61b6e2d59bf108b]
+class Person--><g id="elem_Person"><rect codeLine="175" fill="#F1F1F1" height="157.4844" id="Person" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="127" x="1417.5" y="46"/><ellipse cx="1455" cy="62" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1457.1875,63.7656 L1453.0469,63.7656 L1452.625,64.7969 L1453.0469,64.7969 Q1453.6563,64.7969 1453.9219,65.0313 Q1454.1875,65.2656 1454.1875,65.6563 Q1454.1875,66.0313 1453.9219,66.2656 Q1453.6563,66.5 1453.0469,66.5 L1450.75,66.5 Q1450.1406,66.5 1449.8906,66.2656 Q1449.625,66.0313 1449.625,65.6406 Q1449.625,65.2656 1449.9063,65.0313 Q1450.1719,64.7813 1450.7969,64.7969 L1453.4688,58.1406 L1452.3594,58.1406 Q1451.75,58.1406 1451.4844,57.9063 Q1451.2188,57.6719 1451.2188,57.2813 Q1451.2188,56.9063 1451.4844,56.6719 Q1451.75,56.4375 1452.3594,56.4375 L1456.0313,56.4375 L1459.4219,64.7969 Q1460.0156,64.7969 1460.2031,64.9375 Q1460.5938,65.2031 1460.5938,65.6563 Q1460.5938,66.0313 1460.3281,66.2656 Q1460.0781,66.5 1459.4688,66.5 L1457.1719,66.5 Q1456.5625,66.5 1456.2969,66.2656 Q1456.0313,66.0313 1456.0313,65.6406 Q1456.0313,65.2656 1456.2969,65.0313 Q1456.5625,64.7969 1457.1719,64.7969 L1457.5938,64.7969 L1457.1875,63.7656 Z M1456.4688,62.0625 L1455.1094,58.6875 L1453.7344,62.0625 L1456.4688,62.0625 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="45" x="1474" y="66.8535">Person</text><line style="stroke:#181818;stroke-width:0.5;" x1="1418.5" x2="1543.5" y1="78" y2="78"/><ellipse cx="1428.5" cy="91.3203" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="1437.5" y="94.6738">surname: str</text><ellipse cx="1428.5" cy="106.9609" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="1437.5" y="110.3145">name: str</text><ellipse cx="1428.5" cy="122.6016" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="1437.5" y="125.9551">patronymic: str</text><ellipse cx="1428.5" cy="138.2422" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="1437.5" y="141.5957">gender: Gender</text><ellipse cx="1428.5" cy="153.8828" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="1437.5" y="157.2363">birthdate: date</text><line style="stroke:#181818;stroke-width:0.5;" x1="1418.5" x2="1543.5" y1="164.2031" y2="164.2031"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="1423.5" y="180.877">__init__()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="1423.5" y="196.5176">__str__()</text></g><!--MD5=[f31eda509764d8d4611b1a498a2cb826]
+reverse link Organization to University--><g id="link_Organization_University"><path codeLine="38" d="M594.58,252.34 C566.2,275.84 537.9,299.26 513.63,319.36 " fill="none" id="Organization-backto-University" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="590.46,246.66,610.33,239.3,599.39,257.44,590.46,246.66" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[592494fd86ea47b45cb4b503aac5b136]
+reverse link Organization to Dormitory--><g id="link_Organization_Dormitory"><path codeLine="39" d="M794.13,263.47 C803.68,292.86 812.92,321.32 819.76,342.4 " fill="none" id="Organization-backto-Dormitory" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="787.36,265.28,787.84,244.1,800.67,260.95,787.36,265.28" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3072b3e9627722941c77c36988444719]
+reverse link Organization to Institute--><g id="link_Organization_Institute"><path codeLine="40" d="M664.57,261.42 C656.14,275.72 647.82,290.11 640,304 C592.63,388.2 541.54,489.11 513.81,544.82 " fill="none" id="Organization-backto-Institute" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="658.66,257.68,674.89,244.06,670.69,264.83,658.66,257.68" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5c3b54282e1bff29dc81826d67d2f4e7]
+reverse link Organization to Department--><g id="link_Organization_Department"><path codeLine="41" d="M711.55,264.11 C708.21,277.56 704.98,291.03 702,304 C665.55,462.96 706.98,519.7 631,664 C612.81,698.55 583.45,730.29 556.48,754.87 " fill="none" id="Organization-backto-Department" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="704.83,262.14,716.5,244.46,718.41,265.56,704.83,262.14" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[af58fd4a269c88f8afcf788707460219]
+reverse link Organization to Administrator--><g id="link_Organization_Administrator"><path codeLine="42" d="M894.43,96.64 C1056.67,100.2 1109.02,169.34 1210,304 C1260.21,370.95 1279.32,468.04 1286.58,529.32 " fill="none" id="Organization-backto-Administrator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="881,96.5,886.9557,100.5657,892.9993,96.6319,887.0436,92.5662,881,96.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f4e5c8502669b3c51721b5bd562b481c]
+reverse link Organization to Employee--><g id="link_Organization_Employee"><path codeLine="43" d="M894.08,112.17 C985.15,121.64 1041.41,228.69 1069.93,303.75 " fill="none" id="Organization-backto-Employee" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="881,111.5,886.7852,115.8048,892.984,112.1203,887.1987,107.8155,881,111.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[21bd13179d251d7094b2a4b8d8902b9e]
+reverse link University to University--><g id="link_University_University"><path codeLine="52" d="M450.3,346.87 C462.27,291.43 460.45,214.5 444.5,214.5 C431.84,214.5 428.09,268.39 433.05,319.33 " fill="none" id="University-backto-University" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="447.16,359.74,452.4699,354.8609,450.0083,348.0829,444.6985,352.962,447.16,359.74" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ffe25113f7631189e6aded78cf7b6075]
+reverse link University to Institute--><g id="link_University_Institute"><path codeLine="53" d="M548.04,384.71 C593.2,398.29 549.78,489.53 518.55,544.73 " fill="none" id="University-backto-Institute" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="535,383,540.4304,387.7445,546.8986,384.5566,541.4682,379.8121,535,383" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e7a571b853a850eb7aeff5469db7e9a1]
+reverse link Dormitory to Student--><g id="link_Dormitory_Student"><path codeLine="59" d="M713.2,394.38 C668.12,421.98 721.31,612.08 757.3,723.7 " fill="none" id="Dormitory-backto-Student" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="726,391,719.1785,388.6617,714.3965,394.0591,721.2179,396.3974,726,391" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9f75cc90c6f2ca3da733f6eacccec15e]
+reverse link Institute to Department--><g id="link_Institute_Department"><path codeLine="66" d="M619.19,594.42 C667.9,606.75 595.33,696.48 541.7,754.76 " fill="none" id="Institute-backto-Department" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="606,593,611.5395,597.6167,617.9317,594.2789,612.3921,589.6622,606,593" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6b3f5e9452ab12fdf0b4ed8fddfa1e2a]
+reverse link Department to Group--><g id="link_Department_Group"><path codeLine="74" d="M578.76,804.81 C597.33,815.89 574.86,857.44 590,888 C600.1,908.39 612.99,928.79 626.53,947.8 " fill="none" id="Department-backto-Group" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="566,802,571.0037,807.1926,577.7213,804.571,572.7177,799.3784,566,802" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8897b19cbced873f06864da6580d9ad8]
+reverse link list to Group--><g id="link_list_Group"><path codeLine="79" d="M643.08,841.54 C652.03,869.47 665.09,910.2 677.16,947.82 " fill="none" id="list-backto-Group" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="636.31,843.37,636.87,822.19,649.64,839.09,636.31,843.37" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4befe1b019e7070247eea4d9c0df2c0f]
+reverse link Group to Student--><g id="link_Group_Student"><path codeLine="93" d="M698.28,934.64 C688.22,868.61 677.91,793.76 691.27,775.29 " fill="none" id="Group-backto-Student" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="700.28,947.7,703.3244,941.1631,698.4613,935.8386,695.4168,942.3756,700.28,947.7" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="116" x="575.27" y="773.0586">слабая композиция</text></g><!--MD5=[4befe1b019e7070247eea4d9c0df2c0f]
+reverse link Group to Student--><g id="link_Group_Student"><path codeLine="95" d="M812.99,1039.56 C860.04,1028.12 842.54,950.62 819.87,888.19 " fill="none" id="Group-backto-Student-1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="800,1041,806.4034,1044.3161,811.9272,1039.6806,805.5238,1036.3646,800,1041" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b06c6fefa52bc26fcd8ce3c9ae26df26]
+reverse link Student to Group--><g id="link_Student_Group"><path codeLine="108" d="M685.98,774.14 C653.87,791.49 660.53,877.44 675.08,947.75 " fill="none" id="Student-backto-Group" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="699,771,692.2306,768.515,687.3331,773.808,694.1026,776.2929,699,771" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[306cb5528a2d421cf5bbc7195b2aee2b]
+reverse link Group to EducationForm--><g id="link_Group_EducationForm"><path codeLine="94" d="M813.31,1027.33 C875.35,1041.37 793.04,1163.15 742.76,1229.43 " fill="none" id="Group-backto-EducationForm" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="800,1026,805.5697,1030.5802,811.9398,1027.2006,806.3701,1022.6204,800,1026" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="116" x="622.7452" y="1218.8727">слабая композиция</text></g><!--MD5=[b082b0aa2eaa59385c47ea6e144340d4]
+reverse link Group to Teacher--><g id="link_Group_Teacher"><path codeLine="96" d="M603.97,1057.6 C521.97,1065.14 456.73,1142.28 418.06,1201.9 " fill="none" id="Group-backto-Teacher" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="617,1057,610.8218,1053.2812,605.0128,1057.5539,611.191,1061.2727,617,1057" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[128b7b2f42bf377bc5a6a82a761bcf8f]
+reverse link Researcher to Grade--><g id="link_Researcher_Grade"><path codeLine="126" d="M203.84,807.9 C222.31,831.9 202.22,923.91 185.79,985.73 " fill="none" id="Researcher-backto-Grade" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="192,802,195.5869,808.2557,202.741,807.3507,199.1541,801.095,192,802" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0b1c5d219ef7d922343d9c28632f0b9b]
+reverse link ProfessionalPersonnel to Teacher--><g id="link_ProfessionalPersonnel_Teacher"><path codeLine="138" d="M283.05,682.31 C289.53,695.97 295.45,710.12 300,724 C354.31,889.79 371.32,1095.95 376.62,1201.9 " fill="none" id="ProfessionalPersonnel-backto-Teacher" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="276.6,685.07,273.92,664.05,289.13,678.81,276.6,685.07" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4ba90b5001e3a7885e12a04ca978ec24]
+reverse link ProfessionalPersonnel to Researcher--><g id="link_ProfessionalPersonnel_Researcher"><path codeLine="139" d="M172.59,681.78 C157.63,706.83 142,733.01 129.01,754.75 " fill="none" id="ProfessionalPersonnel-backto-Researcher" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="166.8,677.82,183.06,664.24,178.82,685,166.8,677.82" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d9afbc1fe329f64e3d37115ed50a4e2b]
+reverse link ProfessionalPersonnel to Grade--><g id="link_ProfessionalPersonnel_Grade"><path codeLine="140" d="M343.83,576.84 C362.26,588.07 337.03,630.35 330,664 C323.09,697.1 238.85,887.96 195.06,985.96 " fill="none" id="ProfessionalPersonnel-backto-Grade" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="331,574,335.9913,579.2045,342.7152,576.599,337.7239,571.3944,331,574" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="116" x="74.9677" y="975.2877">слабая композиция</text></g><!--MD5=[d269c9ad2804839da4da192da03ed7c8]
+reverse link Administrator to Employee--><g id="link_Administrator_Employee"><path codeLine="149" d="M1156.77,564.73 C1148.44,542.51 1131.81,494.03 1117.62,452.17 " fill="none" id="Administrator-backto-Employee" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1162,577,1163.3325,569.9131,1157.3032,565.9573,1155.9707,573.0443,1162,577" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f7fb1bbd8b4f4021e9754ae6fe2871a0]
+reverse link Employee to Administrator--><g id="link_Employee_Administrator"><path codeLine="170" d="M1176.59,466.81 C1196.65,487.88 1217.58,509.87 1235.97,529.19 " fill="none" id="Employee-backto-Administrator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1171.25,471.35,1162.53,452.04,1181.39,461.7,1171.25,471.35" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f7fb1bbd8b4f4021e9754ae6fe2871a0]
+reverse link Employee to Administrator--><g id="link_Employee_Administrator"><path codeLine="172" d="M1196.73,405.35 C1215.03,425.68 1244.06,484.11 1265.07,529.27 " fill="none" id="Employee-backto-Administrator-1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1186,398,1188.6819,404.6938,1195.8923,404.7927,1193.2104,398.0989,1186,398" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1af6614007a9be1f084d12f7dfe3bc0e]
+reverse link Employee to GeneralPersonnel--><g id="link_Employee_GeneralPersonnel"><path codeLine="168" d="M1072.07,471.63 C1065.23,501.89 1058.1,533.45 1053.03,555.9 " fill="none" id="Employee-backto-GeneralPersonnel" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1065.26,470.01,1076.5,452.04,1078.92,473.09,1065.26,470.01" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1c178e5432c3ed72dda792ae7dba3708]
+reverse link Employee to SecurityPersonnel--><g id="link_Employee_SecurityPersonnel"><path codeLine="169" d="M997.66,465.6 C962.38,497.64 924.61,531.95 898.24,555.9 " fill="none" id="Employee-backto-SecurityPersonnel" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="993.07,460.31,1012.59,452.04,1002.49,470.67,993.07,460.31" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[baa8d89cb22905b21a3cad97b09036f9]
+reverse link Employee to ProfessionalPersonnel--><g id="link_Employee_ProfessionalPersonnel"><path codeLine="171" d="M974.64,447.29 C970.09,449.01 965.54,450.59 961,452 C702.59,532.48 612.24,427.87 355,512 C349.4,513.83 343.79,515.94 338.2,518.26 " fill="none" id="Employee-backto-ProfessionalPersonnel" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="972.1,440.77,993.25,439.56,977.47,453.7,972.1,440.77" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[59fe9c8026b8fdee425aa7f650c1a023]
+reverse link Person to Student--><g id="link_Person_Student"><path codeLine="184" d="M1488.16,225.14 C1495.69,362.96 1499.88,600.6 1445,664 C1372.06,748.27 1043.02,785.16 878.81,798.55 " fill="none" id="Person-backto-Student" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1481.17,225.52,1487,205.15,1495.14,224.71,1481.17,225.52" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1ca9c1e22cc1eb729b1002e4b7ac82ab]
+reverse link Person to Employee--><g id="link_Person_Employee"><path codeLine="185" d="M1392.35,182.19 C1332.85,220.91 1254.38,271.98 1192.71,312.11 " fill="none" id="Person-backto-Employee" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1388.8,176.15,1409.38,171.11,1396.44,187.88,1388.8,176.15" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8e84db9a891df8cdc8d969f5ce6ac2b1]
+reverse link Person to Gender--><g id="link_Person_Gender"><path codeLine="186" d="M1559.3,137.89 C1624.79,152.56 1600.36,279.59 1584.02,342.29 " fill="none" id="Person-backto-Gender" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1546,136.5,1551.5546,141.0985,1557.9358,137.7397,1552.3811,133.1413,1546,136.5" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="116" x="1458.5739" y="331.6739">слабая композиция</text></g><!--MD5=[20dc3e1adee46d88c3a7989f53eb24a7]
+@startuml
+
+hide enum empty members
+
+enum Gender {
+    MALE
+    FEMALE
+}
+
+enum Grade {
+    BACHELOR
+    SPECIALIST
+    MASTER
+    CANDIDATE
+    DOCTOR
+}
+
+enum EducationForm {
+    INTRAMURAL
+    EXTRAMURAL
+    REMOTE
+}
+
+
+abstract class Organization {
+    +name: str
+    +address: str
+    +contacts: dict[str, str]
+    -head: Administrator
+    -employees: list[Employee]
+    #budget: Decimal
+    __init__()
+    __str__()
+    +change_head()
+    +hire_employee(candidate: Employee)
+    +fire_employee(employee: Employee)
+    +set_budget(amount: Decimal)
+}
+Organization <|- - University
+Organization <|- - Dormitory
+Organization <|- - Institute
+Organization <|- - Department
+Organization::head o- - Administrator
+Organization::employees o- - Employee
+
+
+class University {
+    -branches: list[University]
+    -institutes: list[Institute]
+    +add_branch(*branches)
+    +add_institute(*institutes)
+}
+University::branches o- - University
+University::institutes o- - Institute
+
+
+class Dormitory {
+    +rooms: dict[str, list[Students]]
+}
+Dormitory::rooms o- - Student
+
+
+class Institute {
+    -departments: list[Department]
+    +add_department(*departments)
+}
+Institute::departments o- - Department
+
+
+class Department {
+    -groups: list[Group]
+    +add_group(group)
+    +rem_group(group)
+}
+Department::groups o- - Group
+
+
+abstract class list
+hide list empty members
+list <|- - Group
+
+
+class Group {
+    +name: str
+    +major: str
+    +form: EducationForm
+    -chief: Student
+    -curator: Teacher
+    __init__()
+    __str__()
+    +change_chief(student)
+    +change_curator(curator)
+}
+Group *- - "слабая композиция" Student
+Group::form *- - "слабая композиция" EducationForm
+Group::chief o- - Student
+Group::curator o- - Teacher
+
+
+class Student {
+    +group: Group
+    -grant: Decimal
+    +year: int = 1
+    +dormitory: bool = False
+    __init__()
+    __str__()
+    +promote()
+}
+Student::group o- - Group
+
+
+class Teacher {
+    +courses: list[str]
+    +professorship: bool = False
+    __init__()
+    __str__()
+    +add_course(course_name: str)
+    +rem_course(course_name: str)
+}
+
+
+class Researcher {
+    +grade: Grade = MASTER
+    __init__()
+    __str__()
+}
+Researcher::grade *- - Grade
+
+
+abstract class ProfessionalPersonnel {
+    +previous_experience: int = 0
+    +grade: Grade = BACHELOR
+    .. properties ..
+    +total_experience: int
+    __
+    __init__()
+    __str__()
+}
+ProfessionalPersonnel <|- - Teacher
+ProfessionalPersonnel <|- - Researcher
+ProfessionalPersonnel::grade *- - "слабая композиция" Grade
+
+
+class Administrator {
+    +subordinates: list[Employee]
+    __str__()
+    +add_subordinate(person: Employee)
+    +rem_subordinate(person: Employee)
+}
+Administrator::subordinates o- - Employee
+
+
+class SecurityPersonnel
+SecurityPersonnel : __str__()
+
+
+class GeneralPersonnel
+GeneralPersonnel : __str__()
+
+
+abstract class Employee {
+    +employment_date: date
+    -salary: Decimal
+    +position: str
+    +supervisor: Administrator
+    __init__()
+    __str__()
+}
+Employee <|- - GeneralPersonnel
+Employee <|- - SecurityPersonnel
+Employee <|- - Administrator
+Employee <|- - ProfessionalPersonnel
+Employee::supervisor o- - Administrator
+
+
+abstract class Person {
+    +surname: str
+    +name: str
+    +patronymic: str
+    +gender: Gender
+    +birthdate: date
+    __init__()
+    __str__()
+}
+Person <|- - Student
+Person <|- - Employee
+Person::gender *- - "слабая композиция" Gender
+'note bottom of Person
+'    Все атрибуты задаются
+'    с помощью параметров
+'    конструктора
+'end note
+
+@enduml
+
+@startuml
+
+hide enum empty members
+
+enum Gender {
+    MALE
+    FEMALE
+}
+
+enum Grade {
+    BACHELOR
+    SPECIALIST
+    MASTER
+    CANDIDATE
+    DOCTOR
+}
+
+enum EducationForm {
+    INTRAMURAL
+    EXTRAMURAL
+    REMOTE
+}
+
+
+abstract class Organization {
+    +name: str
+    +address: str
+    +contacts: dict[str, str]
+    -head: Administrator
+    -employees: list[Employee]
+    #budget: Decimal
+    __init__()
+    __str__()
+    +change_head()
+    +hire_employee(candidate: Employee)
+    +fire_employee(employee: Employee)
+    +set_budget(amount: Decimal)
+}
+Organization <|- - University
+Organization <|- - Dormitory
+Organization <|- - Institute
+Organization <|- - Department
+Organization::head o- - Administrator
+Organization::employees o- - Employee
+
+
+class University {
+    -branches: list[University]
+    -institutes: list[Institute]
+    +add_branch(*branches)
+    +add_institute(*institutes)
+}
+University::branches o- - University
+University::institutes o- - Institute
+
+
+class Dormitory {
+    +rooms: dict[str, list[Students]]
+}
+Dormitory::rooms o- - Student
+
+
+class Institute {
+    -departments: list[Department]
+    +add_department(*departments)
+}
+Institute::departments o- - Department
+
+
+class Department {
+    -groups: list[Group]
+    +add_group(group)
+    +rem_group(group)
+}
+Department::groups o- - Group
+
+
+abstract class list
+hide list empty members
+list <|- - Group
+
+
+class Group {
+    +name: str
+    +major: str
+    +form: EducationForm
+    -chief: Student
+    -curator: Teacher
+    __init__()
+    __str__()
+    +change_chief(student)
+    +change_curator(curator)
+}
+Group *- - "слабая композиция" Student
+Group::form *- - "слабая композиция" EducationForm
+Group::chief o- - Student
+Group::curator o- - Teacher
+
+
+class Student {
+    +group: Group
+    -grant: Decimal
+    +year: int = 1
+    +dormitory: bool = False
+    __init__()
+    __str__()
+    +promote()
+}
+Student::group o- - Group
+
+
+class Teacher {
+    +courses: list[str]
+    +professorship: bool = False
+    __init__()
+    __str__()
+    +add_course(course_name: str)
+    +rem_course(course_name: str)
+}
+
+
+class Researcher {
+    +grade: Grade = MASTER
+    __init__()
+    __str__()
+}
+Researcher::grade *- - Grade
+
+
+abstract class ProfessionalPersonnel {
+    +previous_experience: int = 0
+    +grade: Grade = BACHELOR
+    .. properties ..
+    +total_experience: int
+    __
+    __init__()
+    __str__()
+}
+ProfessionalPersonnel <|- - Teacher
+ProfessionalPersonnel <|- - Researcher
+ProfessionalPersonnel::grade *- - "слабая композиция" Grade
+
+
+class Administrator {
+    +subordinates: list[Employee]
+    __str__()
+    +add_subordinate(person: Employee)
+    +rem_subordinate(person: Employee)
+}
+Administrator::subordinates o- - Employee
+
+
+class SecurityPersonnel
+SecurityPersonnel : __str__()
+
+
+class GeneralPersonnel
+GeneralPersonnel : __str__()
+
+
+abstract class Employee {
+    +employment_date: date
+    -salary: Decimal
+    +position: str
+    +supervisor: Administrator
+    __init__()
+    __str__()
+}
+Employee <|- - GeneralPersonnel
+Employee <|- - SecurityPersonnel
+Employee <|- - Administrator
+Employee <|- - ProfessionalPersonnel
+Employee::supervisor o- - Administrator
+
+
+abstract class Person {
+    +surname: str
+    +name: str
+    +patronymic: str
+    +gender: Gender
+    +birthdate: date
+    __init__()
+    __str__()
+}
+Person <|- - Student
+Person <|- - Employee
+Person::gender *- - "слабая композиция" Gender
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 22:01:30 GMT+05:00 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

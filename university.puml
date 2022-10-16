@@ -22,8 +22,83 @@ enum EducationForm {
 }
 
 
-class Student {
+abstract class Organization {
+    +name: str
+    +address: str
+    +contacts: dict[str, str]
+    -head: Administrator
+    -employees: list[Employee]
+    #budget: Decimal
+    __init__()
+    __str__()
+    +change_head()
+    +hire_employee(candidate: Employee)
+    +fire_employee(employee: Employee)
+    +set_budget(amount: Decimal)
+}
+Organization <|-- University
+Organization <|-- Dormitory
+Organization <|-- Institute
+Organization <|-- Department
+Organization::head o-- Administrator
+Organization::employees o-- Employee
+
+
+class University {
+    -branches: list[University]
+    -institutes: list[Institute]
+    +add_branch(*branches)
+    +add_institute(*institutes)
+}
+University::branches o-- University
+University::institutes o-- Institute
+
+
+class Dormitory {
+    +rooms: dict[str, list[Students]]
+}
+Dormitory::rooms o-- Student
+
+
+class Institute {
+    -departments: list[Department]
+    +add_department(*departments)
+}
+Institute::departments o-- Department
+
+
+class Department {
+    -groups: list[Group]
+    +add_group(group)
+    +rem_group(group)
+}
+Department::groups o-- Group
+
+
+abstract class list
+hide list empty members
+list <|-- Group
+
+
+class Group {
+    +name: str
+    +major: str
     +form: EducationForm
+    -chief: Student
+    -curator: Teacher
+    __init__()
+    __str__()
+    +change_chief(student)
+    +change_curator(curator)
+}
+Group *-- "слабая композиция" Student
+Group::form *-- "слабая композиция" EducationForm
+Group::chief o-- Student
+Group::curator o-- Teacher
+
+
+class Student {
+    +group: Group
     -grant: Decimal
     +year: int = 1
     +dormitory: bool = False
@@ -31,8 +106,7 @@ class Student {
     __str__()
     +promote()
 }
-Student <|-- Person
-Student::form *-- "слабая композиция" EducationForm
+Student::group o-- Group
 
 
 class Teacher {
@@ -43,7 +117,6 @@ class Teacher {
     +add_course(course_name: str)
     +rem_course(course_name: str)
 }
-Teacher <|-- ProfessionalPersonnel
 
 
 class Researcher {
@@ -51,7 +124,6 @@ class Researcher {
     __init__()
     __str__()
 }
-Researcher <|-- ProfessionalPersonnel
 Researcher::grade *-- Grade
 
 
@@ -64,7 +136,8 @@ abstract class ProfessionalPersonnel {
     __init__()
     __str__()
 }
-ProfessionalPersonnel <|-- Employee
+ProfessionalPersonnel <|-- Teacher
+ProfessionalPersonnel <|-- Researcher
 ProfessionalPersonnel::grade *-- "слабая композиция" Grade
 
 
@@ -74,30 +147,30 @@ class Administrator {
     +add_subordinate(person: Employee)
     +rem_subordinate(person: Employee)
 }
-Administrator <|-down- Employee
 Administrator::subordinates o-- Employee
 
 
 class SecurityPersonnel
 SecurityPersonnel : __str__()
-SecurityPersonnel <|-- Employee
 
 
 class GeneralPersonnel
 GeneralPersonnel : __str__()
-GeneralPersonnel <|-- Employee
 
 
 abstract class Employee {
     +employment_date: date
     -salary: Decimal
     +position: str
-    +head: Administrator
+    +supervisor: Administrator
     __init__()
     __str__()
 }
-Employee <|-- Person
-Employee::head o-- Administrator
+Employee <|-- GeneralPersonnel
+Employee <|-- SecurityPersonnel
+Employee <|-- Administrator
+Employee <|-- ProfessionalPersonnel
+Employee::supervisor o-- Administrator
 
 
 abstract class Person {
@@ -109,6 +182,8 @@ abstract class Person {
     __init__()
     __str__()
 }
+Person <|-- Student
+Person <|-- Employee
 Person::gender *-- "слабая композиция" Gender
 'note bottom of Person
 '    Все атрибуты задаются
