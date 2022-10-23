@@ -8,7 +8,7 @@ class RasterImage:
 
 class VectorImage:
     @staticmethod
-    def render():
+    def draw():
         """Полиморфный метод."""
         print('векторное изображение')
 
@@ -21,8 +21,4 @@ images = [
     VectorImage(),
 ]
 for img in images:
-    if img.__class__ is RasterImage:
-        img.draw()
-    elif img.__class__ is VectorImage:
-        img.render()
-
+    img.draw()
