@@ -73,7 +73,7 @@ class Institute {
     -departments: list[Department]
     +add_department(*departments)
 }
-Institute::departments o-- Department
+Institute::departments "1" o-- "1…n" Department
 
 
 class Department {
@@ -81,7 +81,7 @@ class Department {
     +add_group(group)
     +rem_group(group)
 }
-Department::groups o-- Group
+Department::groups "1" o-- "0…n" Group
 
 
 abstract class list
@@ -102,7 +102,7 @@ class Group {
 }
 Group *-- "слабая композиция" Student
 Group::form *-- "слабая композиция" EducationForm
-Group::chief o-- Student
+Group::chief "1" o-- "1" Student
 Group::curator o-- Teacher
 
 
@@ -165,7 +165,7 @@ class Student {
     +promote()
     +submit_answer()
 }
-Student::group o-- Group
+Student::group "1…n" o-- "1" Group
 Student::current_schedule *-- "слабая композиция" Schedule
 
 
