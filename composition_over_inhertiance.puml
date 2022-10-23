@@ -1,0 +1,50 @@
+@startuml
+
+class SomthingWithKeys {
+    keys: list
+    press(key)
+}
+SomthingWithKeys <|-- PCKeyboard
+SomthingWithKeys <|-- MIDIKeyboard
+SomthingWithKeys <|-- Calculator
+
+class PCKeyboard {
+    control_keys: list
+    keys: list
+    press(key)
+    numpad_switch()
+}
+
+class MIDIKeyboard {
+    keys: list
+    pads: list
+    press(key)
+    shift_octave()
+}
+
+class Calculator {
+    keys: list
+    press(key)
+}
+
+class Key {
+    code: int
+}
+
+class PCKeyboard_ {
+    control_keys: list
+    keys: list
+    press(key)
+    numpad_switch()
+}
+PCKeyboard_::keys o-- Key
+
+class MIDIKeyboard_ {
+    keys: list
+    pads: list
+    press(key)
+    shift_octave()
+}
+MIDIKeyboard_::keys o-- Key
+
+@enduml
