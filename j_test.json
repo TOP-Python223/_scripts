@@ -1,0 +1,46 @@
+{
+  "_id": "_p_large_boulders_predator_attack",
+  "name": "Большие валуны + Атака хищника",
+  "stay cost": 1,
+  "quit probability": 0.25,
+  "plant find probability": 0.25,
+  "animal find probability": 0.75,
+  "description": {
+    "touch": "Под вами неровная каменистая поверхность. Местность усыпана крупными валунами, которые приходится огибать по большому радиусу.",
+    "hear": "",
+    "vision": ""
+  },
+  "event": {
+    "description": {
+      "touch": "На вас неожиданно напали! С разных сторон по корпусу наносятся тяжёлые и скребущие удары.",
+      "hear": "",
+      "vision": ""
+    },
+    "result": {
+      "critical bad": {
+        "text": "",
+        "affected parameters": {
+          "mass": -35
+        }
+      },
+      "bad": {
+        "text": "",
+        "affected parameters": {
+          "mass": -20
+        }
+      },
+      "good": {
+        "text": "",
+        "affected parameters": {}
+      },
+      "critical good": {
+        "text": "",
+        "affected parameters": {
+          "mass": 12
+        }
+      }
+    }
+  },
+  "passage": [],
+  "biomaterials": []
+}
